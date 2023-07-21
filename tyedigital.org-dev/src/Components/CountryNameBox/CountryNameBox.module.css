@@ -1,0 +1,13 @@
+.container{
+    position: fixed;
+    height: 10%;
+    width: 20%;
+    left: 5%;
+    bottom: 5%;
+    opacity: 100%;
+    font-family: monospace;
+    text-align: center;
+    font-weight:bolder;
+    font-size: xx-large;
+    color:white;
+}

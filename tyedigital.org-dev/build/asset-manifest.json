@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f9a1037.css",
+    "main.js": "/static/js/main.5c31f7ec.js",
+    "static/media/Sandeep Varma.jpg": "/static/media/Sandeep Varma.0eefca97a9fa8f02517c.jpg",
+    "static/media/earthmap4k.jpeg": "/static/media/earthmap4k.59b9c4721b4f384cf2eb.jpeg",
+    "static/media/earthbump4k.jpeg": "/static/media/earthbump4k.705b54c16ea4319f1a9a.jpeg",
+    "static/media/earthspec4k.jpeg": "/static/media/earthspec4k.ac084d450b04a306811f.jpeg",
+    "static/media/Sanika_Gangal.pdf": "/static/media/Sanika_Gangal.f30ce32c01ad2359515a.pdf",
+    "static/media/Daniel.Hotz.1.jpg": "/static/media/Daniel.Hotz.1.516e5b8868e24efad233.jpg",
+    "static/media/Mila.Sonkin.2.jpg": "/static/media/Mila.Sonkin.2.eeece64ae135772efdcf.jpg",
+    "static/media/Dana Losbog .jpg": "/static/media/Dana Losbog .1fe079bf12b5ef349f8d.jpg",
+    "static/media/Ben.Levine.4.jpg": "/static/media/Ben.Levine.4.98af0a578f67b02c7dd2.jpg",
+    "static/media/Sanika.Gangal.6.jpg": "/static/media/Sanika.Gangal.6.9c1653f50aa64f3f301a.jpg",
+    "static/media/Parsa.Barandish.8.jpg": "/static/media/Parsa.Barandish.8.da77121bbfac545c7ee1.jpg",
+    "static/media/Soham.Gangal.9.jpg": "/static/media/Soham.Gangal.9.5af7674fb69255edd303.jpg",
+    "static/media/Mitchell.Gallup.5.jpg": "/static/media/Mitchell.Gallup.5.4152d106ec875f822ef2.jpg",
+    "static/media/space_bot.png": "/static/media/space_bot.4228c3c0cc8c04643166.png",
+    "static/media/landscape_img.webp": "/static/media/landscape_img.1943bdf433a839835687.webp",
+    "static/media/Jai.Singh.3.jpg": "/static/media/Jai.Singh.3.cadb4685f0ced9993b5e.jpg",
+    "static/media/space_right.png": "/static/media/space_right.c204bfbeb64571854b84.png",
+    "static/media/space_left.png": "/static/media/space_left.c9ee0dc7a75b3662b5a1.png",
+    "static/media/Kavi.Tabb.7.jpg": "/static/media/Kavi.Tabb.7.fdc1c45017b8fbbd6b20.jpg",
+    "static/media/space_top.png": "/static/media/space_top.c909086de7e87facccd3.png",
+    "static/media/Adam.Fang.10.jpg": "/static/media/Adam.Fang.10.4be28da506a32c0c8792.jpg",
+    "static/media/space_front.png": "/static/media/space_front.01db648362cbbed45570.png",
+    "static/media/space_back.png": "/static/media/space_back.3e12838ab96354b8830c.png",
+    "static/media/telephone.png": "/static/media/telephone.ea97dfdc4662e0585c23.png",
+    "static/media/gmail.png": "/static/media/gmail.1baaa74a2666b61485a6.png",
+    "static/media/tie-logo.png": "/static/media/tie-logo.c718f343a1d4aa2b07a5.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/TYE-LOGO.png": "/static/media/TYE-LOGO.10d5f4654abc7117e888.png",
+    "index.html": "/index.html",
+    "main.4f9a1037.css.map": "/static/css/main.4f9a1037.css.map",
+    "main.5c31f7ec.js.map": "/static/js/main.5c31f7ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f9a1037.css",
+    "static/js/main.5c31f7ec.js"
+  ]
+}

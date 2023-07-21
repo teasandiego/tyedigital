@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tyedigital-server
+spec:
+  selector:
+    matchLabels:
+      app: tyedigital-server
+  template:
+    metadata:
+      labels:
+        app: tyedigital-server
+    spec:
+      imagePullSecrets: 
+        - name: dev-metastockpicker
+      containers:
+      - name: tyedigital-server
+        image: ghcr.io/kushmanda-tech/tyedigital-dev:dev
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: tyedigital-svc
+spec:
+  selector:
+    app: tyedigital-server
+  ports:
+  - port: 80
+    targetPort: 80
